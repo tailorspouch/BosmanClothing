@@ -1,12 +1,12 @@
 {
  "name": "Tailor's Pouch",
  "short_name": "Tailor's Pou",
- "description": "Bosman Clothing client measurement book",
+ "description": "BosmanClothing client measurement book",
  "start_url": "./index.html",
  "scope": "./",
  "display": "standalone",
- "background_color": "#eef2f4",
- "theme_color": "#208cd9",
+ "background_color": "#f0f3f5",
+ "theme_color": "#489edb",
  "icons": [
   {
    "src": "icon-192.png",
